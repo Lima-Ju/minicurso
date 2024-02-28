@@ -1,3 +1,3 @@
 # minicurso
 
-O fernando fala demais
+Curso de git & github
